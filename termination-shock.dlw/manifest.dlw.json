@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "What if fixing the climate were cheap, unilateral, and impossible to stop once started? That's the real shock.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 898,
+    "prev": "38f4ce2e6ceb1462ad7840156510664fc6836e5ee88ddc3b1ce3217341b61e0b",
+    "link": "da52edd16a671a854477a0fbddd4c7206869a3043b1797e7eabec1585deb47b8",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
