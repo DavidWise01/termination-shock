@@ -4,6 +4,6 @@ slug  : termination-shock
 seal  : 26f464f2f96ca23dff330bd3081066489284369db333a682346f406d4b08d189
 prev  : 38f4ce2e6ceb1462ad7840156510664fc6836e5ee88ddc3b1ce3217341b61e0b
 link  : da52edd16a671a854477a0fbddd4c7206869a3043b1797e7eabec1585deb47b8
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
